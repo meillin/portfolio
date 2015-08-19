@@ -89,13 +89,13 @@ body {
 }
 
 body {
-	background-image: url(../images/img/panathenaic-stadium-small.jpg);
+	//background-image: url(../images/img/panathenaic-stadium-small.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
 
 	@media only screen and (min-width: 64.063em) {
-		background-image: url(../images/img/panathenaic-stadium.jpg);
+		//background-image: url(../images/img/panathenaic-stadium.jpg);
 	}
 }
 
